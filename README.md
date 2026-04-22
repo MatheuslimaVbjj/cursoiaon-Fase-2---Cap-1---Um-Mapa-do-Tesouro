@@ -51,6 +51,11 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 *Acrescentar as informações necessárias sobre pré-requisitos (IDEs, serviços, bibliotecas etc.) e instalação básica do projeto, descrevendo eventuais versões utilizadas. Colocar um passo a passo de como o leitor pode baixar o seu código e executá-lo a partir de sua máquina ou seu repositório. Considere a explicação organizada em fase.*
 
+## Imagens do circuito
+
+![Circuito 1](documento/imagens/imagem-circuito.jpeg)
+
+![Circuito 2](documento/imagens/imagem-circuito2.jpeg)
 
 ## 🗃 Histórico de lançamentos
 
